@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsubaki.Addons.Weather", "src\Tsubaki.Addons.Weather\Tsubaki.Addons.Weather.csproj", "{103D94A4-2A95-4C56-A7AF-6353D06B8B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsubaki.Addons.Process", "src\Tsubaki.Addons.Process\Tsubaki.Addons.Process.csproj", "{E59FAFE0-FF1B-4DA7-9A41-0786CD2B6A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103D94A4-2A95-4C56-A7AF-6353D06B8B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103D94A4-2A95-4C56-A7AF-6353D06B8B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103D94A4-2A95-4C56-A7AF-6353D06B8B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103D94A4-2A95-4C56-A7AF-6353D06B8B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59FAFE0-FF1B-4DA7-9A41-0786CD2B6A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59FAFE0-FF1B-4DA7-9A41-0786CD2B6A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59FAFE0-FF1B-4DA7-9A41-0786CD2B6A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59FAFE0-FF1B-4DA7-9A41-0786CD2B6A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69AB0DAD-7148-4DF3-BF8F-2BA55FEEA0BD}
+	EndGlobalSection
+EndGlobal
